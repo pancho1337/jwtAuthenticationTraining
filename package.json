@@ -1,0 +1,29 @@
+{
+  "name": "jwtauthenticationtraining",
+  "version": "1.0.0",
+  "description": "jwtAuthenticationTraining",
+  "main": "index.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "joi": "^17.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.13",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pancho1337/jwtAuthenticationTraining.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pancho1337/jwtAuthenticationTraining/issues"
+  },
+  "homepage": "https://github.com/pancho1337/jwtAuthenticationTraining#readme"
+}
